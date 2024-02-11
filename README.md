@@ -25,7 +25,7 @@ This project implements machine learning models, specifically an artificial neur
 
 The project is organized as follows:
 
-* Data: This directory contains the MNIST dataset in CSV format.
+* Data: Dataset used in inbuild dataset available in Keras.
 * Notebooks: This directory contains Jupyter notebooks with the Python code used for data analysis and visualization.
 * README.md: This file provides an overview of the project, objectives, and instructions for running the code.
 * LICENSE: This project is under the MIT License.
